@@ -8,7 +8,7 @@ Mais de 20 anos construindo software no ecossistema .NET, com experiência em co
 
 🎓 Certificações Microsoft: **MCAD** e **MCP**
 
-📚 Pós-graduação em Arquitetura de Software (PUC Minas) · cursando pós-graduação em Engenharia de IA (UNIPDS)
+📚 Pós-graduação em Arquitetura de Software (PUC Minas) 
 
 🗣️ Português nativo · Inglês avançado
 
